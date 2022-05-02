@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ritik Soni
-- 👀 I’m interested ML and AI
+- 👀 ML enthusiast
 - 🌱 I’m currently learning data structures to efficiently apply ds concepts practically.
 - 📫 You can reach me at soniritik105@gmail.com
 
