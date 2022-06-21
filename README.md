@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ritik Soni
 - 👀 ML enthusiast
-- 🌱 I’m currently learning data structures to efficiently apply ds concepts practically.
+- 🌱 I’m currently learning data structures and algorithm.
 - 📫 You can reach me at soniritik105@gmail.com
 ![my's github stats](https://github-readme-stats.vercel.app/api?username=ritik007soni&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=000)
 
